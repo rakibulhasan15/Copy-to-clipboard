@@ -1,4 +1,4 @@
 # Copy-to-clipboard
 ### Project View !
-![Screenshot](https://github.com/rakibulhasan15/Decimal-to-binary-converter/blob/bbc2ad4523aaa3349f00ded3ece7b978179cff63/Screenshot%20(26).jpg "Project Screenshot")
+![Screenshot](https://github.com/rakibulhasan15/Copy-to-clipboard/blob/2f1418506a6bfdd026f0f761e02cecd9fdf20b81/project%20screenshot.jpg "Project Screenshot")
 Copy to Readme code apps with Vanilla Javascript.
